@@ -4,8 +4,8 @@ import time
 
 stock = ["1101","2330","1102"]
 
-token = "你的 bot token"
-chat_id = "你的 telegram id"
+token = "8347836488:AAFIDo_RUuk_99kQKTJCVJzv25x11mpQzuQ"
+chat_id = "8516745294"
 
 for stockid in stock:
     url = f"https://tw.stock.yahoo.com/quote/{stockid}.TW"
